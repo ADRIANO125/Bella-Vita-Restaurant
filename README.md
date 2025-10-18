@@ -145,23 +145,12 @@ Primary Colors:
 - Light: #F5F5F5
 ```
 
-## 🌟 Screenshots
 
-<div align="center">
-
-### 🖥️ Desktop View
-![Desktop View](https://via.placeholder.com/800x400/8B0000/FFFFFF?text=Desktop+View)
-
-### 📱 Mobile View
-![Mobile View](https://via.placeholder.com/400x600/FFD700/2C2C2C?text=Mobile+View)
-
-</div>
 
 ## 🔗 Links
 
 - **Live Website:** [bella-vita-psi.vercel.app](https://bella-vita-psi.vercel.app/)
-- **Repository:** [GitHub](https://github.com/yourusername/bella-vita-restaurant)
-- **Documentation:** [Wiki](https://github.com/yourusername/bella-vita-restaurant/wiki)
+
 
 ## 🤝 Contributing
 
@@ -177,13 +166,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- Website: [bella-vita-psi.vercel.app](https://bella-vita-psi.vercel.app/)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
 
 ## 🙏 Acknowledgments
 
